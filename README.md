@@ -1,7 +1,7 @@
 Tokenizer for Hindi
-
+<hr>
 This package tends to implement a Tokenizer and a stemmer for Hindi language.
-
+<hr>
 To import the package,
 ```python
 from HindiTokenizer import Tokenizer
@@ -166,4 +166,4 @@ Given a text, and a word, it will print all the sentences where that word is occ
 sentences=t.concordace("हिन्दी")
 t.print_sentences(sentences)
 ```
-
+Thanks
